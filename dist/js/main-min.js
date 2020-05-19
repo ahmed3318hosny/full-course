@@ -1,1 +1,1 @@
-$(function(){"use strict";$(".fa-exchange-alt").on("click",function(){$(".content-area, .sidebar").toggleClass("no-sidebar")})});const mymap=new map,myset=new set;
+$(function(){"use strict";$(".fa-exchange-alt").on("click",function(){$(".content-area, .sidebar").toggleClass("no-sidebar")})});const myset=new set;
