@@ -4,5 +4,3 @@ $(function () {
     $('.content-area, .sidebar').toggleClass('no-sidebar');
   });
 });
-const mymap = new map();
-const myset = new set();
