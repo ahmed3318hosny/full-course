@@ -12,6 +12,9 @@ html(lang="en")
       include pug/layout/sidebar
       .content-area
         include pug/layout/header
-        .content  
-          h1 #{pageTitle}
+        .container
+          .content
+            .page-head
+              h1 #{pageTitle}
+              p.page-description.lead this is the description of #{pageTitle}
   include pug/layout/scripts.pug
